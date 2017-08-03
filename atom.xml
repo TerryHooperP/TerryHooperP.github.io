@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.paohuipeng.cn/"/>
-  <updated>2017-08-03T16:56:20.511Z</updated>
+  <updated>2017-08-03T16:58:36.866Z</updated>
   <id>http://blog.paohuipeng.cn/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://blog.paohuipeng.cn/2017/08/03/Start-Blog/"/>
     <id>http://blog.paohuipeng.cn/2017/08/03/Start-Blog/</id>
     <published>2017-08-02T17:37:52.000Z</published>
-    <updated>2017-08-03T16:56:20.511Z</updated>
+    <updated>2017-08-03T16:58:36.866Z</updated>
     
     <content type="html"><![CDATA[<h2 id="缘由"><a href="#缘由" class="headerlink" title="缘由"></a>缘由</h2><blockquote>
 <p>工作几年，东西接触了不少，知识好像学了很多，但又讲不出来，自己知道，有些东西总要落到写下来，为了逼自己，建立了这个博客</p>
@@ -33,7 +33,7 @@
     
     <summary type="html">
     
-      开始写博客啦
+      搭建 hexo + github 博客,开始我的博客之旅...
     
     </summary>
     
