@@ -5,7 +5,14 @@
     <entry>
       <title><![CDATA[Start Blog]]></title>
       <url>/2017/08/03/Start-Blog/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<h2 id="缘由"><a href="#缘由" class="headerlink" title="缘由"></a>缘由</h2><blockquote>
+<p>工作几年，东西接触了不少，知识好像学了很多，但又讲不出来，自己知道，有些东西总要落到写下来，为了逼自己，建立了这个博客</p>
+</blockquote>
+<h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><ul>
+<li style="list-style: none"><input type="checkbox" checked> 每天写个 1 - 2 天写一篇随笔</li>
+<li style="list-style: none"><input type="checkbox" checked> 每周写一篇博客</li>
+</ul>
+]]></content>
       
         <categories>
             
