@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.paohuipeng.cn/categories/index.html</loc>
+    
+    <lastmod>2017-08-05T17:53:06.319Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.paohuipeng.cn/tags/index.html</loc>
+    
+    <lastmod>2017-08-05T17:52:48.666Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.paohuipeng.cn/2017/08/03/Start-Blog/</loc>
     
     <lastmod>2017-08-03T16:58:36.866Z</lastmod>
@@ -23,13 +37,6 @@
   </url>
   
   <url>
-    <loc>http://blog.paohuipeng.cn/tags/essay/index.html</loc>
-    
-    <lastmod>2017-08-03T09:19:26.081Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.paohuipeng.cn/tags/essay/test.html</loc>
     
     <lastmod>2017-08-03T09:19:26.081Z</lastmod>
@@ -37,16 +44,16 @@
   </url>
   
   <url>
-    <loc>http://blog.paohuipeng.cn/categories/index.html</loc>
+    <loc>http://blog.paohuipeng.cn/tags/essay/index.html</loc>
     
-    <lastmod>2017-08-02T17:12:50.110Z</lastmod>
+    <lastmod>2017-08-03T09:19:26.081Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.paohuipeng.cn/tags/index.html</loc>
+    <loc>http://blog.paohuipeng.cn/404.html</loc>
     
-    <lastmod>2017-08-02T17:11:09.185Z</lastmod>
+    <lastmod>2017-08-02T17:23:21.340Z</lastmod>
     
   </url>
   
